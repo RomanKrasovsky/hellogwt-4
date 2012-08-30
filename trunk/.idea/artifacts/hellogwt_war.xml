@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hellogwt:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hellogwt-1.0.war">
+      <element id="artifact" artifact-name="hellogwt:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,1 @@
+Simple web application based on Spring, GWT, MyBatis and MySQL.
